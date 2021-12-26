@@ -11,5 +11,5 @@ player can add enhancements to their new ham weapon.
 
 When the player is presented with a ham, they are given the choice to add it as a new weapon.  After it is assigned as the
 HamWepon, the player can choose to upgrade it with enhancements found in the world.  Any
-other hams found in the world will only be consumed for energ
+other hams found in the world will only be consumed for energy
 
